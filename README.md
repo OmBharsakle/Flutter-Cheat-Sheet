@@ -78,7 +78,7 @@ Timer(
 ```
 ###
 
-<h2 align="left">3. RichText</h2>
+<h2 align="left">4. RichText</h2>
 
 ###
 
