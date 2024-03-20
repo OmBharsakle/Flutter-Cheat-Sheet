@@ -78,18 +78,18 @@ Timer(
 ```
 ###
 
-<h2 align="left">3. Splash Screen Timer Code</h2>
+<h2 align="left">3. RichText</h2>
 
 ###
 
 
 ```bash
-Timer(
-      Duration(seconds: 3),
-      () {
-        Navigator.of(context).pushNamed('/home');
-      },
-    );
+RichText(
+          text: TextSpan(
+            text: 'omg Creation',
+            style: TextStyle(color: Colors.red, fontSize: 40),
+          ),
+        ),
 ```
 
  
